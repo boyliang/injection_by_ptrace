@@ -18,7 +18,7 @@ There are two part, one is excutable file called **demo1**, anthor is  dynamic l
 	- myso.cpp
 	- myso.h
 	
-In the end, we get three file: demo1, libinso.so, libmyso.so.
+In the end, we get three files: demo1, libinso.so, libmyso.so.
 	
 ##Usage
 First of all, you should build the [poison](https://github.com/boyliang/Poison). According to the following steps:
